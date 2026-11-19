@@ -14,4 +14,4 @@ updates:
     cooldown:
       default-days: 3
       exclude:
-        - "dadatuputi/bwgc_workflows*"
+        - "Striffly/bwgc_workflows*"
